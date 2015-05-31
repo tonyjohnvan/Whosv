@@ -39,3 +39,11 @@ body,html{
 .smaller-text{
     font-size: 13px;
 }
+
+.marginTop{
+    margin-top: 50px;
+}
+.listItem{
+    padding-left: 20px;
+    display: block;
+}
