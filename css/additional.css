@@ -32,3 +32,10 @@ body,html{
 .guestImage img{
     width: 60px;
 }
+
+.big-margin-bottom{
+    margin-bottom: 100px;
+}
+.smaller-text{
+    font-size: 13px;
+}

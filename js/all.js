@@ -456,7 +456,7 @@
                 from: 0,
                 to: count.html(),
                 speed: 1300,
-                refreshInterval: 60,
+                refreshInterval: 60
             });
             
         });
