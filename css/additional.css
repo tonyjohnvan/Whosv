@@ -1,0 +1,34 @@
+.whosvnav>li>a.active,
+.whosvnav>li>a:hover{
+    color: #ffaa2a !important;
+}
+
+body,html{
+    /*background: #1d2125;*/
+}
+
+.goldColor{
+    color: #ef9b2e !important;
+}
+
+.biggerText{
+    line-height: 3.0;
+}
+
+.widFix .col-sm-6{
+    width: auto;
+}
+
+.qrCode img{
+    width: 150px;
+    margin: 10px auto;
+}
+
+.WhosVPath{
+    letter-spacing: 0;
+    font-size: 17px;
+}
+
+.guestImage img{
+    width: 60px;
+}
