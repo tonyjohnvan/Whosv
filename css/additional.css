@@ -1,6 +1,18 @@
 .whosvnav>li>a.active,
 .whosvnav>li>a:hover{
-    color: #ffaa2a !important;
+    /*color: #ffaa2a !important;*/
+    border-bottom: 2px solid #ffaa2a;
+}
+
+.main-nav.whosvNavWrapper{
+    background: transparent;
+}
+
+.whosvnav>li>a{
+    font-size: 16px;
+}
+.whosvnav>li>a.smallLangurageChange{
+    font-size: 8px;
 }
 
 body,html{
@@ -49,4 +61,12 @@ body,html{
 }
 .whosvbigdownload a{
     margin-bottom: 20px;
+}
+
+.home-text.whosvBigText h1{
+    font-size: 40px;
+}
+
+.btn.whosvBtn{
+    font-size: 15px;
 }
